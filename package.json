@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Emmeline1101/NeDB-test/issues"
   },
-  "homepage": "https://github.com/Emmeline1101/NeDB-test#readme"
+  "homepage": "https://github.com/Emmeline1101/NeDB-test#readme",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
 }
