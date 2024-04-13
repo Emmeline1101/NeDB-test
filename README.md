@@ -1,0 +1,4 @@
+## SetUp
+```
+npm init
+```

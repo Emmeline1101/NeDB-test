@@ -1,0 +1,20 @@
+{
+  "name": "serversidedatabase",
+  "version": "1.0.0",
+  "description": "``` npm init ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmeline1101/NeDB-test.git"
+  },
+  "author": "Emmeline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmeline1101/NeDB-test/issues"
+  },
+  "homepage": "https://github.com/Emmeline1101/NeDB-test#readme"
+}
